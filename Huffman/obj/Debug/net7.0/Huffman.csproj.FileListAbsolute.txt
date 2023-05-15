@@ -1,0 +1,15 @@
+C:\Users\Давід\RiderProjects\Huffman\Huffman\bin\Debug\net7.0\Huffman.exe
+C:\Users\Давід\RiderProjects\Huffman\Huffman\bin\Debug\net7.0\Huffman.deps.json
+C:\Users\Давід\RiderProjects\Huffman\Huffman\bin\Debug\net7.0\Huffman.runtimeconfig.json
+C:\Users\Давід\RiderProjects\Huffman\Huffman\bin\Debug\net7.0\Huffman.dll
+C:\Users\Давід\RiderProjects\Huffman\Huffman\bin\Debug\net7.0\Huffman.pdb
+C:\Users\Давід\RiderProjects\Huffman\Huffman\obj\Debug\net7.0\Huffman.csproj.AssemblyReference.cache
+C:\Users\Давід\RiderProjects\Huffman\Huffman\obj\Debug\net7.0\Huffman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Давід\RiderProjects\Huffman\Huffman\obj\Debug\net7.0\Huffman.AssemblyInfoInputs.cache
+C:\Users\Давід\RiderProjects\Huffman\Huffman\obj\Debug\net7.0\Huffman.AssemblyInfo.cs
+C:\Users\Давід\RiderProjects\Huffman\Huffman\obj\Debug\net7.0\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\Давід\RiderProjects\Huffman\Huffman\obj\Debug\net7.0\Huffman.dll
+C:\Users\Давід\RiderProjects\Huffman\Huffman\obj\Debug\net7.0\refint\Huffman.dll
+C:\Users\Давід\RiderProjects\Huffman\Huffman\obj\Debug\net7.0\Huffman.pdb
+C:\Users\Давід\RiderProjects\Huffman\Huffman\obj\Debug\net7.0\Huffman.genruntimeconfig.cache
+C:\Users\Давід\RiderProjects\Huffman\Huffman\obj\Debug\net7.0\ref\Huffman.dll
